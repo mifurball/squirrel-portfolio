@@ -1,0 +1,7 @@
+{
+  "name": "Squirrel Census Theme",
+  "dataColors": ["#355E3B", "#6F4E37", "#A0522D", "#8C8C8C", "#2B2B2B", "#D2B48C", "#7C9473", "#C9A66B"],
+  "background": "#FFFFFF",
+  "foreground": "#2B2B2B",
+  "tableAccent": "#355E3B"
+}
