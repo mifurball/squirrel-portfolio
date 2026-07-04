@@ -18,6 +18,21 @@ A Power BI dashboard exploring patterns in squirrel color, behavior, and locatio
 **Behavior**
 ![Behavior page](screenshots/behavior.png)
 
+**Human Interaction**
+![Human Interaction page](screenshots/human_interaction.png)
+
+**Timeline**
+![Timeline page](screenshots/timeline.png)
+
+**Age & Sounds**
+![Age & Sounds page](screenshots/age_sounds.png)
+
+**Height**
+![Height page](screenshots/height.png)
+
+**Details**
+![Details page](screenshots/details.png)
+
 #### Contents
 
 - `data/` — raw CSV data
